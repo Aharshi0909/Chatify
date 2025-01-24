@@ -1,1 +1,1 @@
-I just learn react
+I just learnt react
