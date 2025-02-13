@@ -6,7 +6,11 @@ import { useAuthState } from 'react-firebase-hooks/auth'
 import { useCollectionData } from 'react-firebase-hooks/firestore'
 
 const firebaseConfig = {
-  // Use yours
+  /*
+  * Use
+  * yours
+  * pliz
+  */
 }
 
 const app = initializeApp(firebaseConfig)
