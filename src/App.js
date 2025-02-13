@@ -22,12 +22,12 @@ const Home = ({ nav }) => (
     <main className="flex-grow-1 d-flex flex-column justify-content-center align-items-center bg-secondary bg-opacity-25 p-4">
       <h2>Welcome</h2>
       <svg
-        fill="white" // Changed fill color to white for visibility
-        height="100" // Increased size
-        width="100" // Increased size
+        fill="white" 
+        height="100" 
+        width="100" 
         viewBox="0 0 24 24"
         xmlns="http://www.w3.org/2000/svg"
-        className="mb-3" // Added margin for spacing
+        className="mb-3" 
       >
         <g>
           <path d="m12 22.81c-.69 0-1.34-.35-1.8-.96l-1.5-2c-.03-.04-.15-.09-.2-.1h-.5c-4.17 0-6.75-1.13-6.75-6.75v-5c0-4.42 2.33-6.75 6.75-6.75h8c4.42 0 6.75 2.33 6.75 6.75v5c0 4.42-2.33 6.75-6.75 6.75h-.5c-.08 0-.15.04-.2.1l-1.5 2c-.46.61-1.11.96-1.8.96zm-4-20.06c-3.58 0-5.25 1.67-5.25 5.25v5c0 4.52 1.55 5.25 5.25 5.25h.5c.51 0 1.09.29 1.4.7l1.5 2c.35.46.85.46 1.2 0l1.5-2c.33-.44.85-.7 1.4-.7h.5c3.58 0 5.25-1.67 5.25-5.25v-5c0-3.58-1.67-5.25-5.25-5.25z" />
